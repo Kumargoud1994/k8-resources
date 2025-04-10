@@ -1,5 +1,5 @@
 kind: Pod
-apiversion: v1
+apiVersion: v1
 metadata:
   name: environment
 spec:
@@ -13,4 +13,3 @@ spec:
         value: "sivakumarreddy"
       - name: duration
         value: "120hr"
-              
